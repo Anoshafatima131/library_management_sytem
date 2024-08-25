@@ -1,0 +1,4 @@
+// cout<<"Bookname: \t"<<name;
+    // cout<<"\tAuthor: "<<author;
+    // cout<<"\tEdition: "<<edition;
+    // cout<<"\tPrice: "<<price;

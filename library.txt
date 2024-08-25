@@ -1,0 +1,7 @@
+book1	author1	2	6
+book2	author2	6	7
+book3updated	author3	2	3
+newbook4	author4	2	7
+updatedbook5	author5	3	89
+book6	author6	2	56
+
